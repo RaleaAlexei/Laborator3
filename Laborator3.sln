@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AplicatieCompletatieAutomobil", "AplicatieCompletatieAutomobil\AplicatieCompletatieAutomobil.csproj", "{FFD057F1-7956-45E2-B4B0-286977E7EA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoApp", "PhotoApp\PhotoApp.csproj", "{B791C872-B876-4298-9DC5-CE1A026185FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD057F1-7956-45E2-B4B0-286977E7EA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD057F1-7956-45E2-B4B0-286977E7EA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD057F1-7956-45E2-B4B0-286977E7EA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD057F1-7956-45E2-B4B0-286977E7EA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B791C872-B876-4298-9DC5-CE1A026185FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B791C872-B876-4298-9DC5-CE1A026185FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B791C872-B876-4298-9DC5-CE1A026185FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B791C872-B876-4298-9DC5-CE1A026185FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3F3A38-A38F-4CD6-A480-77F231614CEF}
+	EndGlobalSection
+EndGlobal
